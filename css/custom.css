@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-item {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .flex-item-left {
+    background-color: #f2f2f2;
+  }
+  
+  .flex-item-right {
+    background-color: #e0e0e0;
+  }
